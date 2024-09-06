@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class ReturnKeypad {
     public static void main(String[] args) {
-        String[] result = keypad(23);
+        String[] result = keypad(234);
         System.out.println(Arrays.toString(result));
     }
 
