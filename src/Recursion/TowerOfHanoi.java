@@ -2,7 +2,7 @@ package Recursion;
 
 public class TowerOfHanoi {
     public static void main(String[] args) {
-        towerOfHanoi(1,'a','b','c');
+        towerOfHanoi(3,'s','h','d');
     }
 
     public static void towerOfHanoi(int disks, char source, char auxiliary, char destination) {
