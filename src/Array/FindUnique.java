@@ -1,6 +1,4 @@
-package Problems;
-
-import java.util.Arrays;
+package Array;
 
 public class FindUnique {
     public static void main(String[] args) {
