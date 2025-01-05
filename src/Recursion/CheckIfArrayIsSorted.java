@@ -20,6 +20,7 @@ public class CheckIfArrayIsSorted {
             return false;
         }
 
+
         return checkIsSorted(input, startIndex +1 );
     }
 }
